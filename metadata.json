@@ -1,0 +1,6 @@
+{
+  "name": "Furniture Store",
+  "description": "A modern, minimalist furniture website showcasing curated interior design pieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
